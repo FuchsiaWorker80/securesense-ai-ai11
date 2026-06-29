@@ -1,4 +1,4 @@
-# 
+# Best SecureSense downloader. Download and install with version-control and secure-download — fast, secure, and easy to use.
 
 
 
